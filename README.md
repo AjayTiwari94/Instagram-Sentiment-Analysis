@@ -23,7 +23,7 @@ This project uses a custom dataset (sentimentdataset.csv) containing user commen
 
 - Challenge with Nuance: The model's primary challenge was with comments classified as "Neutral," where its performance was lower. This highlights a common difficulty in NLP where subtlety and context are harder to interpret than strong emotional language.
 
-![img_2.png](img_2.png)
+![img.png](img.png)
 
 ## 🚀 How to Run This Project
 1. **Clone the repository**
