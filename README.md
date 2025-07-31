@@ -1,5 +1,5 @@
 # 💬 Instagram Sentiment Analysis
-This project uses Python and the NLTK library to perform sentiment analysis on a dataset of user comments. The primary goal is to classify each comment as Positive, Negative, or Neutral and to evaluate the performance of a pre-trained model (VADER) on this task.
+This project uses Python and the NLTK library to perform sentiment analysis on a dataset of user comments. The primary goal of this project is to classify each comment as Positive, Negative, or Neutral and to evaluate the performance of a pre-trained model (VADER) on this task.
 
 ## 🎯 Problem Statement
 Understanding user sentiment is crucial for brands, creators, and social scientists. This project tackles the challenge of automatically classifying text sentiment from a dataset with highly nuanced and varied emotion labels. The core task involves engineering a process to standardize these labels and then evaluating a sentiment analysis model to understand its strengths and weaknesses on real-world, noisy text data.
