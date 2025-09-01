@@ -46,9 +46,9 @@ Pandas, Scikit-learn (for evaluation), NLTK (VADER), Matplotlib, Seaborn
 
 ## Author
 Ajay Tiwari
-B.Tech Final Year - Computer Science (Specialization in Artificial Intelligence).
-Passionate about Data Analytics, and Machine Learning.
+B.Tech Final Year - Computer Science and Engineering (Artificial Intelligence).
 
 ## Licence 
 MIT Licence - Feel free to use, modify, and share with attribution.
+
 
